@@ -1,2 +1,2 @@
-# Hello-website
-Creating a GitHub page repository. Personal website
+# Juan Blasetti
+Creating a github website to share curriculum and projects
