@@ -8,7 +8,8 @@ Welcome to the personal website of Juan Blasetti
   </head>
   <body>
     <h1>PDF Example with iframe</h1>
-    <iframe src="file:///C:/Users/juanb/Downloads/Juan%20Blasetti%20CS%20resume-converted.pdf" width="100%" height="500px">
+  <iframe src="https://docs.google.com/gview?url=https://docs.google.com/document/d/1OOqYebRbs8a_tKh7k4_R3PX3Wr117Ocm__21vpL4Pck/edit" style="width:600px; height:500px;" frameborder="0"></iframe>
+
     </iframe>
   </body>
 </html>
