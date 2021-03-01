@@ -1,2 +1,3 @@
 # Juan Blasetti
-Creating a github website to share curriculum and projects
+Welcome to the personal website of Juan Blasetti
+
