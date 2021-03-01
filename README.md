@@ -1,5 +1,7 @@
 # Juan Blasetti
-Welcome to the personal website of Juan Blasetti 3
+Welcome to the personal website of Juan Blasetti 
+
+Commitment counter: 4
 
 <!changes are happening rn html>
 <html>
