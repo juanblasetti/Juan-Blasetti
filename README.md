@@ -1,7 +1,7 @@
 # Juan Blasetti
 Welcome to the personal website of Juan Blasetti
 
-<!DOCTYPE html>
+<!changes are happening rn html>
 <html>
   <head>
     <title>Title of the document</title>
